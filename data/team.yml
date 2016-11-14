@@ -1,0 +1,10 @@
+# team.yml
+Anne:
+  picture: images/anne.jpg
+  role: COO
+John:
+  picture: images/romain.jpeg
+  role: COO
+Georges:
+  picture: images/sebastien.png
+  role: COO
